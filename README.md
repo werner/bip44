@@ -26,6 +26,9 @@ Or install it yourself as:
 
     $ gem install bip44
 
+### Notes
+The gem digest-sha3 stops being mantained, install from https://github.com/izetex/digest-sha3-ruby
+
 ## Usage
 
 See test
